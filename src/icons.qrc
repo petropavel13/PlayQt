@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/next.svg</file>
+        <file>icons/pause.svg</file>
+        <file>icons/play.svg</file>
+        <file>icons/prev.svg</file>
+        <file>icons/repeat.svg</file>
+        <file>icons/shuffle.svg</file>
+    </qresource>
+</RCC>
